@@ -1,0 +1,9 @@
+What happens when you initialize a repository?  Why do you need to do it?
+	When init'ing a repository, git creates the .git folder so start tracking changes to file when the commit command it run
+
+	This is needed to make the current directory a Git contolled directory.
+
+How is the staging area different from the working directory and the repository?  What value do you this it offers?
+	The Working Directory is where the current files actually exist
+	The Starting Area shows what files will be included in any future commits
+	The Repository is the collection of the different versions of the files
