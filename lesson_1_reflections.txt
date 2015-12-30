@@ -1,0 +1,2 @@
+How did viewing a diff between two versions help you see the bug that was introduced?
+	Using diff really highlighted the lines that were changed.  It made it easier to find the typo.
