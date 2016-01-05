@@ -10,3 +10,10 @@ How is the staging area different from the working directory and the repository?
 
 How can you use the staging area to make sure you have one commit oer logical change?
 	After each change, add the changed file to git then commit
+
+What are some situation when branched would be helpful in keeping your history organized? How would branches help?
+	Branched can help separate expiremental code changes from mail code changes while still allowing for commits and code change tracking.
+
+How do the diagrams help you visualize the branch structure?
+	The diagrams show me the structure of the branches and their commit status.
+
