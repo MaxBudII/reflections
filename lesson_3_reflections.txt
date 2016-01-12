@@ -8,3 +8,7 @@ Describe the differences between forks, clones, and branches. When would you use
 	A branch is a second copy of the code in a respository made to allow changes to code without affecting the master branch.  Can be used foe experimental code changes and can be merged to the master branch later.
 	A clone is a complete copy of either a remote or local git repository that lives locally
 	A fork is a complete copy of a git repository that lives on the GutHub repositoy.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	If you aill be working offline you can get a local copy with the latest commit, work offline, then when back online you can merge any changes.
+
